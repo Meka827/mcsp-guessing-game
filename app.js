@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 const player = prompt("Hey! What's your name!")
 var count = 0;
 let history: {};
@@ -50,5 +49,3 @@ var formatArray = function(array) {
 }
 
 play();
-=======
->>>>>>> refs/remotes/origin/main
